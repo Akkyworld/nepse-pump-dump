@@ -13,7 +13,7 @@ nepse-pump-dump/
 │   ├── app.py              # Streamlit application
 │   └── requirements.txt    # Frontend dependencies
 ├── data/
-│   └── sample_stocks.csv   # Sample stock data
+│   └── nepse_today.json   # Sample stock data
 └── README.md
 ```
 
